@@ -1,5 +1,8 @@
-class output{
+// Define a class named 'output'
+public class output {
+    // The main method, where the execution of the program starts
     public static void main(String[] args) {
-        System.out.println("hello world");//here println used for output
+        // Print the string "hello world" to the console
+        System.out.println("hello world");
     }
 }
