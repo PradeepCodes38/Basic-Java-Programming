@@ -8,6 +8,6 @@ public class P0066_ArrayMax {
                 max = arr[i];
             }   
         }
-        System.out.println("Max element: " + max);
+        System.out.println("Max element is: " + max);
     }
 }
