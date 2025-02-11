@@ -1,4 +1,4 @@
-public class P0066_ArrayMax {
+public class P066_ArrayMax {
     public static void main(String[] args) {
         int arr[] = {1, 2, 3, 4, 5, 1, 2, 3, 4, 5};
         int max = arr[0];
